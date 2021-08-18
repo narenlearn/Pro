@@ -3,7 +3,7 @@
 - Maven 3 or later
 - MySQL 5.6 or later
 
-## Technologies used
+## Technologies used 33
 - Spring MVC
 - Spring Security
 - Spring Data JPA
