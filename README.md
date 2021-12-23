@@ -1,5 +1,5 @@
 ## Prerequisites for project........adding somecontenarendra123 new one 21
-- JDK 1.8 or later naren
+- JDK 1.8 or later
 - Maven 3 or later
 - MySQL 5.6 or later
 
